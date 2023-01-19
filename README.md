@@ -8,4 +8,8 @@
             (__)\       )\/\
                 ||----w |
                 ||     ||
-
+----------------------------------------------
+->1 Ejemplo de fnord(5pts)
+.fnord
+You must meet Mr. Bill at San Francisco and get the cash.
+-------------------------------------------------
