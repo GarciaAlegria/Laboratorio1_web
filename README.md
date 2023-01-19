@@ -10,6 +10,11 @@
                 ||     ||
 ----------------------------------------------
 ->1 Ejemplo de fnord(5pts)
+
 .fnord
 You must meet Mr. Bill at San Francisco and get the cash.
 -------------------------------------------------
+->Traducir el mensaje a clave morse(10pts)
+ye shall be as gods
+-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+--------------------------------------------------
